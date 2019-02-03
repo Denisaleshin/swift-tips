@@ -4,6 +4,8 @@ The following is a collection of tips I find to be useful when working with the 
 
 # Summary
 
+
+* [#32 Determination which device currently in use](#determination-which-device-currently-in-use)
 * [#31 Debouncing a function call](#debouncing-a-function-call)
 * [#30 Providing useful operators for `Optional` booleans](#providing-useful-operators-for-optional-booleans)
 * [#29 Removing duplicate values from a `Sequence`](#removing-duplicate-values-from-a-sequence)
